@@ -47,7 +47,7 @@ expand_mode = 1
 stretch_mode = 5
 metadata/_edit_use_anchors_ = true
 
-[node name="TextureRect" type="TextureRect" parent="Body"]
+[node name="Expression" type="TextureRect" parent="Body"]
 layout_mode = 1
 anchors_preset = -1
 anchor_top = -0.017
@@ -77,7 +77,8 @@ offset_right = -433.0
 offset_bottom = -496.0
 grow_horizontal = 2
 grow_vertical = 2
-text = "fnaf 2 moive might be peak!"
+text = "HELLO WORLD!!!
+"
 fit_content = true
 
 [node name="NextButton" type="Button" parent="."]
@@ -96,3 +97,5 @@ grow_horizontal = 0
 grow_vertical = 0
 text = "next
 "
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]

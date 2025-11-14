@@ -1,4 +1,8 @@
 Button
+HBoxContainer
+VBoxContainer
+AudioStreamPlayer
+AudioStreamPlayer2D
 TextureButton
 RichTextLabel
 TextureRect
